@@ -1,0 +1,5 @@
+<application>
+  <component name="PhoneGapSettings">
+    <option name="executablePath" value="./node_modules/.bin/phonegap" />
+  </component>
+</application>
