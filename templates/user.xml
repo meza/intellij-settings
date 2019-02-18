@@ -1,0 +1,7 @@
+<templateSet group="user">
+  <template name="tig" value="// tslint:disable-next-line" description="tslint ignore" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>
