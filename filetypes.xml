@@ -1,0 +1,13 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="build-for-android-dev" type="Bash" />
+      <mapping pattern=".eslintrc-development" type="PLAIN_TEXT" />
+      <mapping pattern="test_config" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintrc-test" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintrc-production" type="PLAIN_TEXT" />
+      <mapping ext="gml" type="XML" />
+    </extensionMap>
+  </component>
+</application>
