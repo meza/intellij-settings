@@ -7,6 +7,7 @@
       <mapping pattern="test_config" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc-test" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc-production" type="PLAIN_TEXT" />
+      <mapping pattern=".editorconfig" type="PLAIN_TEXT" />
       <mapping ext="cue" type="PLAIN_TEXT" />
       <mapping ext="gml" type="XML" />
     </extensionMap>
