@@ -8,6 +8,7 @@
       <mapping pattern=".eslintrc-test" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc-production" type="PLAIN_TEXT" />
       <mapping ext="cue" type="PLAIN_TEXT" />
+      <mapping ext="bakk" type="TypeScript" />
       <mapping ext="gml" type="XML" />
     </extensionMap>
   </component>
