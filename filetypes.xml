@@ -2,12 +2,15 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="build-for-android-dev" type="Bash" />
-      <mapping pattern=".eslintrc-development" type="PLAIN_TEXT" />
+      <mapping pattern="*.js.flow" type="Flow" />
+      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="test_config" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc-test" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc-production" type="PLAIN_TEXT" />
       <mapping pattern="__mocks__" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintrc-development" type="PLAIN_TEXT" />
+      <mapping ext="gql" type="PLAIN_TEXT" />
       <mapping ext="cue" type="PLAIN_TEXT" />
       <mapping ext="bakk" type="TypeScript" />
       <mapping ext="gml" type="XML" />
