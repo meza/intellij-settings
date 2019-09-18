@@ -11,7 +11,6 @@
       <mapping pattern="__mocks__" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc-development" type="PLAIN_TEXT" />
       <mapping ext="gql" type="PLAIN_TEXT" />
-      <mapping ext="graphql" type="PLAIN_TEXT" />
       <mapping ext="cue" type="PLAIN_TEXT" />
       <mapping ext="bakk" type="TypeScript" />
       <mapping ext="gml" type="XML" />
