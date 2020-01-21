@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="build-for-android-dev" type="Bash" />
+      <mapping pattern=".versionrc" type="JSON" />
       <mapping pattern="test_config" type="PLAIN_TEXT" />
       <mapping pattern=".dockerignore" type="PLAIN_TEXT" />
       <mapping pattern=".eslintrc-test" type="PLAIN_TEXT" />
