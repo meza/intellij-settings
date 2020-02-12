@@ -14,7 +14,7 @@
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*.sql</mask>
-    <mask>*.ts</mask>
     <mask>*test.ts</mask>
+    <mask>*.ts</mask>
   </component>
 </application>
