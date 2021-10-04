@@ -1,5 +1,9 @@
 <code_scheme name="Default" version="173">
   <option name="LINE_SEPARATOR" value="&#10;" />
+  <GoCodeStyleSettings>
+    <option name="REMOVE_REDUNDANT_IMPORT_ALIASES" value="true" />
+    <option name="LOCAL_PACKAGE_PREFIXES" />
+  </GoCodeStyleSettings>
   <HTMLCodeStyleSettings>
     <option name="HTML_ATTRIBUTE_WRAP" value="4" />
     <option name="HTML_NEWLINE_BEFORE_FIRST_ATTRIBUTE" value="When multiline" />
@@ -15,9 +19,11 @@
     <option name="OBJECT_WRAPPING" value="5" />
     <option name="ARRAY_WRAPPING" value="5" />
   </JSON>
-  <PostgresCodeStyleSettings version="2">
-    <option name="KEYWORD_CASE" value="0" />
-    <option name="TYPE_CASE" value="0" />
+  <PostgresCodeStyleSettings version="6">
+    <option name="USE_GENERAL_STYLE" value="false" />
+    <option name="KEYWORD_CASE" value="2" />
+    <option name="TYPE_CASE" value="2" />
+    <option name="CUSTOM_TYPE_CASE" value="2" />
     <option name="SELECT_ALIGN_AS" value="false" />
   </PostgresCodeStyleSettings>
   <TypeScriptCodeStyleSettings version="0">
