@@ -1,16 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.properties</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.xml</mask>
-    <mask>*.java</mask>
+    <option name="customScope" value="File '…\src\main\java\com\stateshifterlabs\achievementbooks\AchievementBooks.java [achievementbooks.main]'" />
+    <option name="defaultScopeName" value="File '…\src\main\java\com\stateshifterlabs\achievementbooks\AchievementBooks.java [achievementbooks.main]'" />
+    <option name="SEARCH_SCOPE" value="File '…\src\main\java\com\stateshifterlabs\achievementbooks\AchievementBooks.java [achievementbooks.main]'" />
     <mask>*.js</mask>
     <mask>*.as</mask>
-    <mask>*.css</mask>
     <mask>*.mxml</mask>
     <mask>*.scss</mask>
     <mask>*test.ts</mask>
@@ -18,5 +12,11 @@
     <mask>*query.ts</mask>
     <mask>*.sql</mask>
     <mask>*.query.ts</mask>
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.xml</mask>
+    <mask>*.jsp</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
   </component>
 </application>
