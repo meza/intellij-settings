@@ -36,19 +36,15 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JAVA">
+    <option name="KEEP_BLANK_LINES_IN_DECLARATIONS" value="1" />
+    <option name="KEEP_BLANK_LINES_IN_CODE" value="1" />
+    <option name="KEEP_BLANK_LINES_BETWEEN_PACKAGE_DECLARATION_AND_HEADER" value="1" />
+    <option name="KEEP_BLANK_LINES_BEFORE_RBRACE" value="1" />
     <arrangement>
       <groups>
         <group>
-          <type>GETTERS_AND_SETTERS</type>
-          <order>KEEP</order>
-        </group>
-        <group>
           <type>OVERRIDDEN_METHODS</type>
           <order>BY_NAME</order>
-        </group>
-        <group>
-          <type>DEPENDENT_METHODS</type>
-          <order>BREADTH_FIRST</order>
         </group>
       </groups>
       <rules>
@@ -62,6 +58,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -74,6 +71,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -86,6 +84,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -98,6 +97,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -109,6 +109,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -120,6 +121,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -131,6 +133,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -142,6 +145,7 @@
                 <STATIC>true</STATIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -163,6 +167,7 @@
                 <PUBLIC>true</PUBLIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -174,6 +179,7 @@
                 <PROTECTED>true</PROTECTED>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -185,6 +191,7 @@
                 <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -196,6 +203,7 @@
                 <PRIVATE>true</PRIVATE>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -206,6 +214,7 @@
                 <PUBLIC>true</PUBLIC>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -216,6 +225,7 @@
                 <PROTECTED>true</PROTECTED>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -226,6 +236,7 @@
                 <PACKAGE_PRIVATE>true</PACKAGE_PRIVATE>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -236,6 +247,7 @@
                 <PRIVATE>true</PRIVATE>
               </AND>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -243,6 +255,7 @@
             <match>
               <FIELD>true</FIELD>
             </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
@@ -257,6 +270,20 @@
             <match>
               <CONSTRUCTOR>true</CONSTRUCTOR>
             </match>
+          </rule>
+        </section>
+        <section>
+          <rule>
+            <match>
+              <AND>
+                <METHOD>true</METHOD>
+                <OVERRIDDEN />
+                <PROTECTED>true</PROTECTED>
+                <PUBLIC>true</PUBLIC>
+                <visibility />
+              </AND>
+            </match>
+            <order>BY_NAME</order>
           </rule>
         </section>
         <section>
