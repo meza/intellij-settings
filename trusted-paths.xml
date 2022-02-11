@@ -2,7 +2,8 @@
   <component name="Trusted.Paths.Settings">
     <option name="TRUSTED_PATHS">
       <list>
-        <option value="$USER_HOME$/dev" />
+        <option value="//wsl$/Ubuntu/home/meza/dev" />
+        <option value="E:/dev" />
       </list>
     </option>
   </component>
