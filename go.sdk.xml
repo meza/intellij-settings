@@ -2,6 +2,7 @@
   <component name="GoSdkList">
     <sdk-url>
       <set>
+        <option value="file://C:/Program Files/Go" />
         <option value="file://E:/dev/vendor/go/go1.17rc2" />
       </set>
     </sdk-url>
