@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping pattern="pack.mcmeta" type="JSON" />
       <mapping pattern="mcmod.info" type="JSON" />
-      <removed_mapping ext="graphqlconfig" type="JSON" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
@@ -14,6 +13,7 @@
       <mapping ext="pegjs" type="PLAIN_TEXT" />
       <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
       <removed_mapping ext="env" approved="true" type="Env File" />
+      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
       <removed_mapping ext="psd" approved="true" type="Image" />
       <removed_mapping pattern=".env" approved="true" type=".env file" />
       <removed_mapping pattern=".env" approved="true" type="Env File" />
