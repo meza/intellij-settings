@@ -1,9 +1,14 @@
 <application>
   <component name="NodeJsLocalInterpreterManager">
-    <local-interpreter path="C:/Program Files/nodejs/node.exe" />
-    <local-interpreter path="$APPLICATION_CONFIG_DIR$/node/node-v14.15.0-win-x64/node.exe" />
+    <local-interpreter path="$APPLICATION_CONFIG_DIR$/node/node-v14.15.0-win-x64/node.exe">
+      <version-cache version="14.15.0" last-modified="1643630268551" />
+    </local-interpreter>
+    <local-interpreter path="C:/Program Files/nodejs/node.exe">
+      <version-cache version="17.4.0" last-modified="1642513762000" />
+    </local-interpreter>
   </component>
   <component name="WslNodeInterpreterManager">
     <wsl-interpreter distribution="Ubuntu" path="/usr/local/bin/node" />
+    <wsl-interpreter distribution="Ubuntu1" path="/usr/local/bin/node" />
   </component>
 </application>
