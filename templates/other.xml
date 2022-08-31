@@ -1,0 +1,7 @@
+<templateSet group="other">
+  <template name="ed" value="// eslint-disable-next-line" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
