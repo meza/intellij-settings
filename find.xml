@@ -5,20 +5,5 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <mask>*.js</mask>
-    <mask>*.as</mask>
-    <mask>*.mxml</mask>
-    <mask>*.scss</mask>
-    <mask>*test.ts</mask>
-    <mask>*.ts</mask>
-    <mask>*query.ts</mask>
-    <mask>*.sql</mask>
-    <mask>*.query.ts</mask>
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.xml</mask>
-    <mask>*.jsp</mask>
-    <mask>*.properties</mask>
-    <mask>*.java</mask>
   </component>
 </application>

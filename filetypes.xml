@@ -1,27 +1,13 @@
 <application>
-  <component name="FileTypeManager" version="18">
+  <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping pattern=".env.defaults" type=".env file" />
-      <mapping pattern="pack.mcmeta" type="JSON" />
-      <mapping pattern="mcmod.info" type="JSON" />
-      <mapping pattern="remix.config.js" type="JavaScript" />
-      <mapping ext="space.kts" type="Kotlin" />
-      <mapping ext="gradle.kts" type="Kotlin" />
-      <mapping ext="main.kts" type="Kotlin" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".browserslistrc" type="PLAIN_TEXT" />
-      <mapping ext="pegjs" type="PLAIN_TEXT" />
-      <mapping ext="mcfunction" type="PLAIN_TEXT" />
-      <removed_mapping ext="apk" approved="true" type="ARCHIVE" />
-      <removed_mapping ext="env" approved="true" type="Env File" />
-      <removed_mapping ext="graphqlconfig" approved="true" type="JSON" />
-      <removed_mapping ext="ignore" approved="true" type="IgnoreLang file" />
-      <removed_mapping ext="psd" approved="true" type="Image" />
-      <removed_mapping pattern=".env" approved="true" type=".env file" />
-      <removed_mapping pattern=".env" approved="true" type="Env File" />
-      <removed_mapping pattern=".env" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping pattern=".env.*" approved="true" type="Env File" />
-      <removed_mapping pattern=".env.defaults" approved="true" type="PLAIN_TEXT" />
+      <mapping ext="klib" type="ARCHIVE" />
+      <mapping pattern="build-for-android-dev" type="Bash" />
+      <mapping pattern=".eslintrc-development" type="PLAIN_TEXT" />
+      <mapping pattern="test_config" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintrc-test" type="PLAIN_TEXT" />
+      <mapping pattern=".eslintrc-production" type="PLAIN_TEXT" />
+      <mapping ext="gml" type="XML" />
     </extensionMap>
   </component>
 </application>
