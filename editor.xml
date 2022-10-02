@@ -14,7 +14,7 @@
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
   </component>
   <component name="InlayHintsSettings">
-    <option name="lastViewedProviderKeyId" value="TypeScript.ts.type.hints.parameters.in.parens" />
+    <option name="lastViewedProviderKeyId" value="TypeScript.parameter.hints.old.js.param.hints.show.names.for.tagged" />
     <settingsMapElement>
       <TypeScript.ts.type.hints>
         <Settings>

@@ -8,7 +8,6 @@
     <option id="angular.show.names.for.pipes" value="false" />
     <disabledLanguages>
       <language id="JAVA" />
-      <language id="TypeScript" />
       <language id="Angular2Html" />
       <language id="JavaScript" />
       <language id="kotlin" />
